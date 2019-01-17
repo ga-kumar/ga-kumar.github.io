@@ -7,5 +7,5 @@
       }],
   "start_url": "./index.html?homescreen=1",
   "display": "standalone",
-  "gcm_sender_id": "1083950835962"
+  "gcm_sender_id": "1083950835926"
 }
