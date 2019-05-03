@@ -1,0 +1,53 @@
+{
+    "inventorySearchList": {
+        "TITLE_InventoryLookup": "Lookup inventory",
+        "LABEL_Location": "Location: ",
+        "LABEL_LocationType": "Location type: ",
+        "LABEL_Category": "Category: ",
+        "LABEL_Status": "Status: ",
+        "LABEL_SKU": "SKU: ",
+        "LABEL_AdvancedSearch": "Advanced search",
+        "ACTION_Close": "Close",
+        "ACTION_ShowInfo": "More",
+        "ACTION_More": "+{count} more",
+        "ACTION_HideInfo": "Hide",
+        "LABEL_Units": "{ count, plural, =1{UNIT} other{UNITS}}",
+        "LABEL_searchResultsFor" : "{ count, plural, =1{{count}  search result for } other{{count}  search results for }}",
+        "MESSAGE_NoMatchingInventoryFound": "No matching inventory found.",
+        "LABEL_Keywords": "Keywords"
+
+
+    },
+    "serialNumberDetails": {
+        "TITLE_InventoryLookup": "Lookup inventory",
+        "LABEL_SerialNumber": "Serial # ",
+        "LABEL_SKU": "SKU: ",
+        "ACTION_Close": "Close",
+        "LABEL_Location": "Location: ",
+        "LABEL_Status": "Status: ",
+        "LABEL_ProductClass": "Product class:",
+        "LABEL_Tag": "Tag:",
+        "LABEL_DateOfManufacture": "Date of manufacture:",
+        "ACTION_ViewSKUDetails": "View SKU details"
+    }
+    ,
+    "inventoryDetails": {
+        "LABEL_OnHand": "ON-HAND",
+        "LABEL_SKU": "SKU: {id}",
+        "LABEL_OnHandDetails": "On-hand details",
+        "ACTION_ShowInfo": "Show",
+        "ACTION_HideInfo": "Hide",
+        "ACTION_ViewOrders": "View orders",
+        "LABEL_Location": "Location",
+        "LABEL_FutureInventory": "Future inventory",
+        "LABEL_LocationType": "Location type : {type}  ",
+        "LABEL_Units": "{ count, plural, =1{{count} unit} other{{count} units}}",
+        "LABEL_ETA": "ETA: ",
+        "MESSAGE_NoInventoryFound": "No inventory found.",
+        "LABEL_Status": "Status",
+        "LABEL_Segment": "Segment",
+        "MESSAGE_NoData": "No inventory found",
+        "LABEL_Unassigned": "Unassigned"
+
+    }
+}

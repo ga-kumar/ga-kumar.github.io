@@ -1,0 +1,92 @@
+{
+    "initiateTransfer": {
+        "TITLE_InitiateTransfer": "Initiate transfer",
+        "LABEL_TransferOrderNo": "Order: {orderKey}",
+        "LABEL_Location": "Location: {locationId}",
+        "LABEL_ScanPlaceholder": "Scan or lookup locations",
+        "MESSAGE_ScanOrLookupLocations": "Scan or lookup locations to transfer inventory",
+        "LABEL_LocationType": "Location type: ",
+        "LABEL_Category": "Category: ",
+        "LABEL_Status": "Status: ",
+        "LABEL_SKU": "{sku} SKU ",
+        "LABEL_AdvancedSearch": "Advanced search",
+        "ACTION_Close": "Close",
+        "ACTION_Next": "Next",
+        "ACTION_Done": "Done",
+        "ACTION_ShowInfo": "Show",
+        "ACTION_HideInfo": "Hide",
+        "LABEL_Units": "{ count, plural, =1{{count} unit} other{{count} units}}",
+        "LABEL_searchResultsFor" : "{count} search results for",
+        "ACTION_Remove": "Remove",
+        "LABEL_TransferType": "Type of transfer",
+        "LABEL_DestinationOrNodeType": "Destination or node type",
+        "LABEL_DestinationNameOrNode": "Destination name or node",
+        "LABEL_AssignedTo": "Assigned to",
+        "LABEL_SelectOption": "Select option",
+        "LABEL_RequestedDateTime": "Requested date and time of transfer",
+        "LABEL_AddNotes": "Add notes",
+        "LABEL_Optional": " (Optional)",
+        "LABEL_Transfer": "TRANSFER",
+        "MSG_InvalidBarCodeData": "Scan a valid location.",
+        "LABEL_ItemId": "SKU: {itemId}",
+        "LABEL_SelectedSKU":"Selected {numOfselectedSKU} of {totalSKU}",
+        "LABEL_InventoryStatus":"Status: {status}",
+        "MSG_NodeIsBlank":"Destination node is not selected",
+        "LABEL_Products": "{ count, plural, =1{Product ({count})} other{{count} Products}}",
+        "MSG_No_Products_selected":"No products are selected to initiate transfer.",
+        "MESSAGE_CancelRequestedProduct":"Do you want to remove the product?",
+        "MSG_NoLocationInventory":"Location has no inventory."
+
+    },
+    "transferOrderSummary": {
+        "TITLE_TransferOrderSummary": "TO summary",
+        "LABEL_TransferOrderNo": "Order: {orderKey}",
+        "ACTION_Close": "Close",
+        "LABEL_Products": "{ count, plural, =1{Product ({count})} other{Products ({count})}}",
+        "LABEL_Status": "{status, select, IN_PROGRESS{In progress} NOT_STARTED{Ready for picking} CANCELLED{Cancelled} DRAFT_ORDER_CREATED{Draft Order Created} CREATED{Created} SHIPPED{Shipped} other{Complete}}",
+        "ACTION_HideInfo": "Hide",
+        "ACTION_MoreInfo": "More",
+        "LABEL_TransferType": "Type of transfer",
+        "LABEL_DestinationType": "Destination type",
+        "LABEL_ShipmentNo": "Shipment no",
+        "LABEL_RequestedTransferDate": "Requested transfer date",
+        "LABEL_FromLocation": "From location",
+        "LABEL_ToLocation": "To location",
+        "LABEL_CreatedOn": "Created on",
+        "LABEL_CreatedBy": "Created by",
+        "LABEL_AssignedTo": "Assigned to",
+        "MESSAGE_NoOrdersFound": "No orders found.",
+        "LABEL_Transfer": "TRANSFER",
+        "LABEL_InventoryStatus": "Status: {status}",
+        "LABEL_SKU": "SKU: {itemId}",
+        "MESSAGE_CancelTO":"Do you want to continue with cancellation ?",
+        "MESSAGE_NoShipmentsForTO":"There is no shipment for this order."
+
+    },
+
+    "transferOrderList": {
+       "TITLE_TransferLookup":"TO search results" ,
+       "ACTION_Close":"Close",
+       "LABEL_Status": "{status, select, IN_PROGRESS{In progress} NOT_STARTED{Ready for picking} CANCELLED{Cancelled} DRAFT_ORDER_CREATED{Draft Order Created} CREATED{Created} SHIPPED{Shipped} other{Complete}}",
+       "MESSAGE_NoOrdersFound": "No orders found.",
+       "LABEL_Products": "{ count, plural, =1{Product} other{Products}}",
+       "LABEL_Order": "Order #",
+       "LABEL_CreatedOn": "Created on: ",
+       "LABEL_CreeatedBy":"Created by: ",
+       "LABEL_Destination":"Destination name",
+       "LABEL_searchResultsFor" : "{ count, plural, =1{{count}  search result for } other{{count}  search results for }}",
+       "LABEL_Product": "Product ",
+       "ACTION_More": "+{count} more",
+       "ACTION_HideInfo": "Hide",
+       "Action_View":"View",
+       "Action_Continue":"Continue",
+       "LABEL_DestinationType":"Destination type",
+       "LABEL_searchResults" : "{ count, plural, =1{{count}  search result for } other{{count}  search results }}"
+
+
+
+    }
+
+
+   
+}

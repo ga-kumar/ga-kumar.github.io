@@ -1,0 +1,27 @@
+{
+    "login": {
+        "LABEL_UserId":"User ID",
+        "LABEL_Password":"Password",
+        "TITLE_Product_name": "IBM Store Fulfillment",
+        "LABEL_Lead_title": "Welcome to",
+        "TITLE_Login":"Login",
+        "BUTTON_Login":"Login",
+        "MESSAGE_User_id_password_required": "User ID and password are required",
+        "MESSAGE_User_id_required": "User ID is required",
+        "MESSAGE_Password_required": "Password is required",
+        "serverError":"Not able to contact server.",
+        "Login_Failed": "The combination of username and password entered does not match any existing account. Please try again.",
+        "MESSAGE_copyright": "IBM Store Fulfillment licensed materials - Property of IBM. (C) Copyright IBM Corporation and its licensors {year}. All rights reserved. IBM and the IBM logo are trademarks of IBM Corporation in the United States, other countries, or both.",
+        "login_failed_shipnode_authorization_error": "Invalid user. User does not belong to the store.",
+        "login_failed_shipnode_not_present_authorization_error": "Invalid user. User does not belong to the store.",
+        "login_failed_shipnode_or_team_configuration_error": "Invalid user. User does not belong to store or team configuration is not correct.",
+        "login_failed_shipnode_invalid_address": "Invalid store address. Contact your administrator.",
+        "System_Timeout":"The session has timed out.",
+        "Unrecognized_User":"You are not authorized to access IBM Store Fulfillment. Contact your system administrator if problem persists.",
+        "Please_Contact_SYS_ADMIN":"Error occured. Contact your system administrator.",
+        "CSRF Token validation failed.":"The session has expired.",
+        "google":"Google",
+        "loginMsg":"Login with {provisionerName} ID" 
+
+    }
+}

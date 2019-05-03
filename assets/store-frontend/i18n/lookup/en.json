@@ -1,0 +1,29 @@
+{
+ "LookupPortlet": {
+        "TITLE_LookupPortlet": "Lookup Inventory",
+        "SKU":"SKU :",
+        "Item":"Product Id :",
+        "OnHand":"OnHand: ",
+        "zone":"Zone/Location :"
+        
+    },
+	  "reclassifyPortlet": {
+        "MSG_InvalidProductId_Serial": "Could not get the inventory for the SKU.",
+        "MSG_InvalidProductId": "The SKU doesn’t exist.",
+        "MSG_IncorrectProductClass": "SKU doesn’t belong to Demo class.",
+        "MSG_MismatchedSerial": "Mismatched serial",
+        "MSG_ReclassificationFailure": "Reclassification failed. Please try again.",
+		 "MSG_MatchedSerial": "Added serial",
+               "BUTTON_Close": "Close",
+        "MSG_Invalid_Serial" : "Unable to get Details for the serial.Scan Failed!",
+        "MSG_Invalid_ItemID" : "New SKU cannot be empty!",
+        "MSG_Invalid_TargetStatus" : "Targrt status is empty" ,
+        "MSG_Invalid_Quantity" : "Invalid quantity"  
+
+       },
+
+       "ViewSerials" : {
+              "TITLE" : "View Serial"
+       }
+
+}

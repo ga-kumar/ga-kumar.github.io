@@ -1,0 +1,14 @@
+{
+    "nagModal" : {
+        "BUTTON_OK": "OK",
+        "BUTTON_CONFIRMATION_YES": "Yes",
+        "BUTTON_CONFIRMATION_NO": "No",
+        "BUTTON_CLOSE": "Close",
+        "TITLE_Error": "Error",
+        "TITLE_Success": "Success",
+        "TITLE_Information": "Information",
+        "TITLE_Warning": "Warning",
+        "TITLE_Confirmation": "Confirmation"
+
+    }
+}
