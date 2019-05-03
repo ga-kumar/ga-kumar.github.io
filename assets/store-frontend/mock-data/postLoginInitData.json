@@ -1,0 +1,75 @@
+{
+    "AppContext":[
+       {
+          "currentStoreName":"Matrix - Boston",
+          "lastName":"",
+          "isProductionEnv":"",
+          "listApiPageSize":"100",
+          "storeName":"Mtrx_Store_1",
+          "storeDesc":"Matrix - Boston",
+          "storeAddress":"{\"ShipNodePersonInfo\":{\"EMailID\":\"\",\"DayPhone\":\"2145557432\",\"LastName\":\"Roberts\",\"EveningFaxNo\":\"\",\"OtherPhone\":\"\",\"DayFaxNo\":\"\",\"PersonID\":\"\",\"FirstName\":\"John\",\"Company\":\"Matrix Retail\",\"Department\":\"\",\"MobilePhone\":\"\",\"AlternateEmailID\":\"\",\"Suffix\":\"\",\"Country\":\"US\",\"ZipCode\":\"02116\",\"Title\":\"\",\"City\":\"Boston\",\"MiddleName\":\"\",\"State\":\"MA\",\"AddressLine4\":\"\",\"AddressLine5\":\"\",\"AddressLine6\":\"\",\"EveningPhone\":\"\",\"JobTitle\":\"\",\"Beeper\":\"\",\"AddressLine1\":\"234 Copley Place\",\"AddressLine2\":\"\",\"AddressLine3\":\"\"}}",
+          "masterDataPageSize":"10",
+          "customerICN":"",
+          "currentLoginID":"abrooks",
+          "ibmID":"",
+          "tenantName":"",
+          "quantityFractionSize":"2",
+          "username":"Store Manager",
+          "emailID":"",
+          "localeCode":"en",
+          "environmentName":"",
+          "firstName":"",
+          "nodeLocale":"US",
+          "quantityFractionSizeSupported":"Y",
+          "documentDomain":"ibm.com",
+          "defaultPageSize":"30"
+       }
+    ],
+    "Rules":[
+        {
+            "RuleKey": "PollingInterval",
+            "RuleJson": {"Rules":{"RuleSetValue":"60000","RuleSetFieldName":"WCC_ALERT_POLLING_INTERVAL"}}
+        },
+        {
+            "RuleKey": "ShowItemImage",
+            "RuleJson":{"Rules":{"RuleSetValue":"N","RuleSetFieldName":"WSC_SHOW_ITEM_IMAGES"}}
+        },
+        {
+            "RuleKey": "EnableStagingLocation",
+            "RuleJson":{"Rules":{"RuleSetValue":"Y","RuleSetFieldName":"WSC_BP_STG_REQD"}}
+        }   
+    ],
+    "appInfo":[
+        {
+           "currencyList":"{\"CurrencyList\":{\"Currency\":[{\"EuroMemberFlag\":\"N\",\"PostfixSymbol\":\"\",\"PrefixSymbol\":\"\\x24\",\"Currency\":\"USD\",\"CurrencyDescription\":\"US Dollar\"},{\"EuroMemberFlag\":\"N\",\"PostfixSymbol\":\"\",\"PrefixSymbol\":\"\\u20AC\",\"Currency\":\"EUR\",\"CurrencyDescription\":\"Euro\"},{\"EuroMemberFlag\":\"N\",\"PostfixSymbol\":\"\",\"PrefixSymbol\":\"\\xA5\",\"Currency\":\"CNY\",\"CurrencyDescription\":\"China Yuan Renminbi\"},{\"EuroMemberFlag\":\"N\",\"PostfixSymbol\":\"\",\"PrefixSymbol\":\"\\xA5\",\"Currency\":\"JPY\",\"CurrencyDescription\":\"Japanese Yen\"},{\"EuroMemberFlag\":\"N\",\"PostfixSymbol\":\"\",\"PrefixSymbol\":\"\\u20A9\",\"Currency\":\"KRW\",\"CurrencyDescription\":\"South Korean Won\"},{\"EuroMemberFlag\":\"N\",\"PostfixSymbol\":\"\",\"PrefixSymbol\":\"R\\x24\",\"Currency\":\"BRL\",\"CurrencyDescription\":\"Brazilian Real\"},{\"EuroMemberFlag\":\"N\",\"PostfixSymbol\":\"z\\u0142\",\"PrefixSymbol\":\"\",\"Currency\":\"PLN\",\"CurrencyDescription\":\"Polish Zloty\"},{\"EuroMemberFlag\":\"N\",\"PostfixSymbol\":\"TL\",\"PrefixSymbol\":\"\",\"Currency\":\"TRY\",\"CurrencyDescription\":\"Turkish Lira\"},{\"EuroMemberFlag\":\"N\",\"PostfixSymbol\":\"\\u0440\\u0443\\u0431\",\"PrefixSymbol\":\"\",\"Currency\":\"RUB\",\"CurrencyDescription\":\"Russian Ruble\"},{\"EuroMemberFlag\":\"N\",\"PostfixSymbol\":\"\",\"PrefixSymbol\":\"Rs.\",\"Currency\":\"INR\",\"CurrencyDescription\":\"Indian Rupee\"}]}}",
+           "CSRFToken":"153590831041207B950454AC5DC1589126412AF62C93E",
+           "applicationCtx":"\\x2Fwscdev",
+           "csrfValMode":"POST",
+           "activeHelpURL":"http\\x3A\\x2F\\x2Fwww.ibm.com\\x2Fsupport\\x2Fknowledgecenter\\x2FSSGTZV\\x3Flang\\x3Den",
+           "landingPageState":null,
+           "isDevMode":true,
+           "ssoEnabled":"false",
+           "mobileEnv":false,
+           "loginPage":"\\x2Fngstore\\x2Fredirect.do",
+           "APP_DEVICE_MODE":"desktop"
+        }
+     ],
+     "ResourcePermission":{"WSCSYS00001":"w","WSC000009":"w","WSC000001":"w","WSC000008":"w","WSC000006":"w","WSC000016":"w","WSC000017":"w","WSC000019":"w","WSC000012":"w","WSC000013":"w","WSC000014":"w","WSC000015":"w","WSC000010":"w","WSC000011":"w","WSC000029":"w","WSC000027":"w","WSC000028":"w","WSC000025":"w","WSC000026":"w","WSC000023":"w","WSC000024":"w","WSC000021":"w","WSC000022":"w","WSC000020":"w","WSC000078":"w","WSC000076":"w","WSC000077":"w","WSC000074":"w","WSC000075":"w","WSC000072":"w","WSC000073":"w","WSC000070":"w","WSC000071":"w","WSC000080":"w","WSC000042":"w","WSC000041":"w","WSC000044":"w","WSC000043":"w","WSC000040":"w","WSC000049":"w","WSC000046":"w","WSC000045":"w","WSC000048":"w","WSC000047":"w","WSC000033":"w","WSC000032":"w","WSC000031":"w","WSC000030":"w","WSC000039":"w","WSC000038":"w","WSC000037":"w","WSC000036":"w","WSC000035":"w","WSC000034":"w","WSC000060":"w","WSC000062":"w","WSC000061":"w","WSC000064":"w","WSC000063":"w","WSC000066":"w","WSC000065":"w","WSCYS00079":"w","WSC000068":"w","WSC000067":"w","WSC000069":"w","WSC000051":"w","WSC000050":"w","WSC000055":"w","WSC000054":"w","WSC000053":"w","WSC000052":"w","WSC000059":"w","WSC000058":"w","WSC000057":"w","WSC000056":"w"},
+     "UserInfo": [
+        {
+           "Theme":"ice",
+           "DimensionUOM":"IN",
+           "Timezone":"America\/New_York",
+           "LocaleCode":"en_US_EST",
+           "Language":"en",
+           "UserName":"Store Manager",
+           "UserId":"abrooks",
+           "Variant":"",
+           "Country":"US",
+           "Currency":"USD",
+           "WeightUOM":"LBS",
+           "VolumeUOM":"CIN"
+        }
+    ]
+ }
+

@@ -1,0 +1,351 @@
+/*******************************************************************************
+ * IBM Confidential
+ * OCO Source Materials
+ * IBM Sterling Order Management Store (5725-D10), IBM Order Management (5737-D18), IBM Store Engagement (5737D58)
+ * (C) Copyright IBM Corp.2015, 2017 All Rights Reserved.
+ * The source code for this program is not published or otherwise divested of its trade secrets, irrespective of what has been deposited with the U.S. Copyright Office.
+ ******************************************************************************/
+
+@font-face {
+  font-family: 'app-glyphicons';
+  src:  url('assets/store-frontend/styles/fonts/app-glyphicons.eot?3g16we');
+  src:  url('assets/store-frontend/styles/fonts/app-glyphicons.eot?3g16we#iefix') format('embedded-opentype'),
+    url('assets/store-frontend/styles/fonts/app-glyphicons.ttf?3g16we') format('truetype'),
+    url('assets/store-frontend/styles/fonts/app-glyphicons.woff?3g16we') format('woff'),
+    url('assets/store-frontend/styles/fonts/app-glyphicons.svg?3g16we#app-glyphicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.app-glyphicons {
+    font-family: 'app-glyphicons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.app-icon-about_20:before {
+  content: "\e900";
+}
+.app-icon-Advance-Search-Transfer-Inventory-30x30:before {
+  content: "\e901";
+}
+.app-icon-alert_16:before {
+  content: "\e902";
+}
+.app-icon-Assign_user_16x16:before {
+  content: "\e903";
+}
+.app-icon-back_20:before {
+  content: "\e904";
+}
+.app-icon-badge_16:before {
+  content: "\e905";
+}
+.app-icon-bee_30:before {
+  content: "\e906";
+}
+.app-icon-Calendar-Daterange_20:before {
+  content: "\e907";
+}
+.app-icon-close_12:before {
+  content: "\e908";
+}
+.app-icon-close_20:before {
+  content: "\e909";
+}
+.app-icon-Collapse-16x16:before {
+  content: "\e90a";
+}
+.app-icon-collapsed-chevron_right_14:before {
+  content: "\e90b";
+}
+.app-icon-continue_20:before {
+  content: "\e90c";
+}
+.app-icon-continue_64:before {
+  content: "\e90d";
+}
+.app-icon-cust_service_20:before {
+  content: "\e90e";
+}
+.app-icon-cycle_count_portlet_42x53:before {
+  content: "\e90f";
+}
+.app-icon-dashboard_20:before {
+  content: "\e910";
+}
+.app-icon-dashboard_active_20:before {
+  content: "\e911";
+}
+.app-icon-Desktop_16:before {
+  content: "\e912";
+}
+.app-icon-done_check_20:before {
+  content: "\e913";
+}
+.app-icon-dot_active:before {
+  content: "\e914";
+}
+.app-icon-dot_default:before {
+  content: "\e915";
+}
+.app-icon-error_20:before {
+  content: "\e916";
+}
+.app-icon-Expand_16x16:before {
+  content: "\e917";
+}
+.app-icon-filter_applied_16:before {
+  content: "\e918";
+}
+.app-icon-filter_default_16:before {
+  content: "\e919";
+}
+.app-icon-filter_selected_16:before {
+  content: "\e91a";
+}
+.app-icon-Flag_completed_tasks_100x100:before {
+  content: "\e91b";
+}
+.app-icon-Green_lowpriority:before {
+  content: "\e91c";
+}
+.app-icon-ham_default:before {
+  content: "\e91d";
+}
+.app-icon-help_20:before {
+  content: "\e91e";
+}
+.app-icon-help_active_20:before {
+  content: "\e91f";
+}
+.app-icon-ibm_38_15:before {
+  content: "\e920";
+}
+.app-icon-info_20 .path1:before {
+  content: "\e921";
+  color: rgb(121, 166, 246);
+}
+.app-icon-info_20 .path2:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(52, 51, 52);
+}
+.app-icon-information-icon_20 .path1:before {
+  content: "\e923";
+  color: rgb(121, 166, 246);
+}
+.app-icon-information-icon_20 .path2:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(52, 51, 52);
+}
+.app-icon-inventory_mgmt_20:before {
+  content: "\e925";
+}
+.app-icon-inventory_mgmt_active_20:before {
+  content: "\e926";
+}
+.app-icon-location_pin_20:before {
+  content: "\e927";
+  color: #959595;
+}
+.app-icon-logout_20:before {
+  content: "\e928";
+}
+.app-icon-logout_active_20:before {
+  content: "\e929";
+}
+.app-icon-minus_30:before {
+  content: "\e92a";
+}
+.app-icon-minus_disabled_30:before {
+  content: "\e92b";
+}
+.app-icon-more_active_horiz_16:before {
+  content: "\e92c";
+}
+.app-icon-more_active_vert_20:before {
+  content: "\e92d";
+}
+.app-icon-more_horiz_16:before {
+  content: "\e92e";
+}
+.app-icon-more_vert_20:before {
+  content: "\e92f";
+}
+.app-icon-move_30:before {
+  content: "\e930";
+}
+.app-icon-move_40:before {
+  content: "\e931";
+}
+.app-icon-Move:before {
+  content: "\e932";
+}
+.app-icon-mytaks_active_20:before {
+  content: "\e933";
+}
+.app-icon-mytasks_20:before {
+  content: "\e934";
+}
+.app-icon-open-chevron_down_14:before {
+  content: "\e935";
+}
+.app-icon-order_fulfill_20:before {
+  content: "\e936";
+}
+.app-icon-order_fulfill_active_20:before {
+  content: "\e937";
+}
+.app-icon-pack_30:before {
+  content: "\e938";
+}
+.app-icon-pack_40:before {
+  content: "\e939";
+}
+.app-icon-Pack:before {
+  content: "\e93a";
+}
+.app-icon-pick_30:before {
+  content: "\e93b";
+}
+.app-icon-pick_40:before {
+  content: "\e93c";
+}
+.app-icon-Pick:before {
+  content: "\e93d";
+}
+.app-icon-plus_30:before {
+  content: "\e93e";
+}
+.app-icon-plus_disabled_30:before {
+  content: "\e93f";
+}
+.app-icon-Portlet_InventoryLookup80x80:before {
+  content: "\e940";
+}
+.app-icon-Portlet_TransferInventory-51x53:before {
+  content: "\e941";
+}
+.app-icon-print_20:before {
+  content: "\e942";
+}
+.app-icon-putaway_30:before {
+  content: "\e943";
+}
+.app-icon-putaway_40:before {
+  content: "\e944";
+}
+.app-icon-Putaway:before {
+  content: "\e945";
+}
+.app-icon-receiving_30:before {
+  content: "\e946";
+}
+.app-icon-receiving_40:before {
+  content: "\e947";
+}
+.app-icon-Receiving:before {
+  content: "\e948";
+}
+.app-icon-Red_highpriority:before {
+  content: "\e949";
+}
+.app-icon-remove_circle_16_active:before {
+  content: "\e94a";
+}
+.app-icon-remove_circle_16_default:before {
+  content: "\e94b";
+}
+.app-icon-Remove_icon_16x16:before {
+  content: "\e94c";
+}
+.app-icon-Right_arrow:before {
+  content: "\e94d";
+}
+.app-icon-scan_20:before {
+  content: "\e94e";
+}
+.app-icon-scan_wl_20:before {
+  content: "\e94f";
+}
+.app-icon-scan_ws_20:before {
+  content: "\e950";
+}
+.app-icon-search_16:before {
+  content: "\e951";
+}
+.app-icon-serial_pick_16:before {
+  content: "\e952";
+}
+.app-icon-serial_short_16:before {
+  content: "\e953";
+}
+.app-icon-ship_30:before {
+  content: "\e954";
+}
+.app-icon-ship_40:before {
+  content: "\e955";
+}
+.app-icon-Ship:before {
+  content: "\e956";
+}
+.app-icon-sitemap_20:before {
+  content: "\e957";
+}
+.app-icon-sitemap_active_20:before {
+  content: "\e958";
+}
+.app-icon-sort_16:before {
+  content: "\e959";
+}
+.app-icon-sort_active_16:before {
+  content: "\e95a";
+}
+.app-icon-star_fill_16:before {
+  content: "\e95b";
+  color: #959494;
+}
+.app-icon-success_20:before {
+  content: "\e95c";
+}
+.app-icon-TransferInventory-Emptystate_Noitemadded_64x64:before {
+  content: "\e95d";
+}
+.app-icon-Tri-state_icon_16x16:before {
+  content: "\e95e";
+}
+.app-icon-Tri-state_icon_20x20:before {
+  content: "\e95f";
+}
+.app-icon-User_16:before {
+  content: "\e960";
+}
+.app-icon-warning_20 .path1:before {
+  content: "\e961";
+  color: rgb(254, 213, 0);
+}
+.app-icon-warning_20 .path2:before {
+  content: "\e962";
+  margin-left: -1em;
+  color: rgb(52, 51, 52);
+}
+.app-icon-warning_20 .path3:before {
+  content: "\e963";
+  margin-left: -1em;
+  color: rgb(52, 51, 52);
+}
+.app-icon-warning_30:before {
+  content: "\e964";
+}
+.app-icon-Yellow_Medpriority:before {
+  content: "\e965";
+}

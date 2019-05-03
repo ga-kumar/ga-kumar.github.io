@@ -1,0 +1,305 @@
+{
+	"PickRequest": [
+		{
+			"assignedToUserId": "adoyle",
+			"requestedBy":"Amanda",
+			"cartNo":"CART001",
+			"shipmentNo":"SHP001",
+			"createdTimestamp": "2018-10-10T05:26:50.420Z", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "WALK_REQUESTID001",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"WALK-IN",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "1",
+					"pickedQuantity": "2",
+					"requestedQuantity": "4",
+					"shortageQuantity": "1",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "WALK_REQUESTID002",
+					"taskId": "TASK_001",
+					"assignedToUserId": "adoyle",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		},
+		{
+			"assignedToUserId": "adoyle",
+			"requestedBy":"Amanda",
+			"cartNo":"CART001",
+			"shipmentNo":"SHP001",
+			"createdTimestamp": "2018-10-10T05:26:50.420Z", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "WALK_REQUESTID002",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"WALK-IN",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "1",
+					"pickedQuantity": "2",
+					"requestedQuantity": "4",
+					"shortageQuantity": "1",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "WALK_REQUESTID002",
+					"taskId": "TASK_001",
+					"assignedToUserId": "adoyle",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		},
+		{
+			"assignedToUserId": "adoyle",
+			"requestedBy":"Amanda",
+			"cartNo":"CART001",
+			"shipmentNo":"SHP001",
+			"createdTimestamp": "2018-10-10T05:26:50.420Z", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "WALK_REQUESTID003",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"WALK-IN",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "1",
+					"pickedQuantity": "2",
+					"requestedQuantity": "4",
+					"shortageQuantity": "1",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "WALK_REQUESTID003",
+					"taskId": "TASK_001",
+					"assignedToUserId": "adoyle",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		},
+		{
+			"assignedToUserId": "adoyle",
+			"requestedBy":"Amanda",
+			"cartNo":"CART001",
+			"shipmentNo":"SHP001",
+			"createdTimestamp": "2018-10-10T05:26:50.420Z", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "WALK_REQUESTID004",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"WALK-IN",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "1",
+					"pickedQuantity": "2",
+					"requestedQuantity": "4",
+					"shortageQuantity": "1",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "WALK_REQUESTID004",
+					"taskId": "TASK_001",
+					"assignedToUserId": "adoyle",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		},
+		{
+			"assignedToUserId": "adoyle",
+			"requestedBy":"Amanda",
+			"cartNo":"CART001",
+			"shipmentNo":"SHP001",
+			"createdTimestamp": "2018-10-10T05:26:50.420Z", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "WALK_REQUESTID005",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"WALK-IN",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "1",
+					"pickedQuantity": "2",
+					"requestedQuantity": "4",
+					"shortageQuantity": "1",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "WALK_REQUESTID005",
+					"taskId": "TASK_001",
+					"assignedToUserId": "adoyle",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		},
+		{
+			"assignedToUserId": "adoyle",
+			"requestedBy":"Amanda",
+			"cartNo":"CART001",
+			"shipmentNo":"SHP001",
+			"createdTimestamp": "2018-10-10T05:26:50.420Z", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "WALK_REQUESTID006",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"WALK-IN",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "1",
+					"pickedQuantity": "2",
+					"requestedQuantity": "4",
+					"shortageQuantity": "1",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "WALK_REQUESTID006",
+					"taskId": "TASK_001",
+					"assignedToUserId": "adoyle",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		},
+		{
+			"assignedToUserId": "adoyle",
+			"requestedBy":"Amanda",
+			"cartNo":"CART001",
+			"shipmentNo":"SHP001",
+			"createdTimestamp": "2018-10-10T05:26:50.420Z", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "WALK_REQUESTID007",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"WALK-IN",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "1",
+					"pickedQuantity": "2",
+					"requestedQuantity": "4",
+					"shortageQuantity": "1",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "WALK_REQUESTID007",
+					"taskId": "TASK_001",
+					"assignedToUserId": "adoyle",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		}
+	]
+}

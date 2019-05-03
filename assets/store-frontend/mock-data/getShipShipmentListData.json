@@ -1,0 +1,262 @@
+{
+	"PickRequest": [
+		{
+			"assignedToUserId": "gborden",
+			"requestedBy":"Julia",
+			"cartNo":"CART0045",
+			"shipmentNo":"",
+			"createdTimestamp": "", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "SHIPREQ_001",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"SHIP",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "2",
+					"pickedQuantity": "2",
+					"requestedQuantity": "2",
+					"shortageQuantity": "0",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "",
+					"taskId": "TASK_002",
+					"assignedToUserId": "",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		},
+		{
+			"assignedToUserId": "gborden",
+			"requestedBy":"Julia",
+			"cartNo":"CART0045",
+			"shipmentNo":"",
+			"createdTimestamp": "", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "SHIPREQ_002",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"SHIP",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "2",
+					"pickedQuantity": "2",
+					"requestedQuantity": "2",
+					"shortageQuantity": "0",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "",
+					"taskId": "TASK_002",
+					"assignedToUserId": "",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		},
+		{
+			"assignedToUserId": "gborden",
+			"requestedBy":"Julia",
+			"cartNo":"CART0045",
+			"shipmentNo":"",
+			"createdTimestamp": "", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "SHIPREQ_003",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"SHIP",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "2",
+					"pickedQuantity": "2",
+					"requestedQuantity": "2",
+					"shortageQuantity": "0",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "",
+					"taskId": "TASK_002",
+					"assignedToUserId": "",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		},
+		{
+			"assignedToUserId": "gborden",
+			"requestedBy":"Julia",
+			"cartNo":"CART0045",
+			"shipmentNo":"",
+			"createdTimestamp": "", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "SHIPREQ_004",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"SHIP",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "2",
+					"pickedQuantity": "2",
+					"requestedQuantity": "2",
+					"shortageQuantity": "0",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "",
+					"taskId": "TASK_002",
+					"assignedToUserId": "",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		},
+		{
+			"assignedToUserId": "gborden",
+			"requestedBy":"Julia",
+			"cartNo":"CART0045",
+			"shipmentNo":"",
+			"createdTimestamp": "", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "SHIPREQ_005",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"SHIP",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "2",
+					"pickedQuantity": "2",
+					"requestedQuantity": "2",
+					"shortageQuantity": "0",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "",
+					"taskId": "TASK_002",
+					"assignedToUserId": "",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		},
+		{
+			"assignedToUserId": "gborden",
+			"requestedBy":"Julia",
+			"cartNo":"CART0045",
+			"shipmentNo":"",
+			"createdTimestamp": "", 
+			"expectedCompletionTime": "2018-10-13T05:26:50.420Z", 
+			"pickRequestId": "SHIPREQ_006",
+			"stagingLocationId": "",
+			"status": "IN_PROGRESS",
+			"type":"SHIP",
+			"requestedSerials": ["PIXEL100001", "PIXEL100002"                                                                                                                                                                                                                                                                ],
+			"pickLocations": {
+				"pickTasks": {
+					"ItemDetails": {
+						"PrimaryInformation": {
+							"Description": "",
+							"ImageID": "",
+							"ImageLabel": "",
+							"ImageLocation": ""
+						},
+						"Variation":"",
+						"DisplayUnitOfMeasure": "",
+						"ItemID": "",
+						"UOMDisplayFormat": "",
+						"UnitOfMeasure": ""
+					},
+					"pickedSerials":[ "PIXEL100001", "PIXEL100002" ],
+					"completedQuantity": "2",
+					"pickedQuantity": "2",
+					"requestedQuantity": "2",
+					"shortageQuantity": "0",
+					"status": "",
+					"sourceLocationId": "sourceLoc",
+					"targetLocationId": "DestLocation",
+					"pickRequestId": "",
+					"taskId": "TASK_002",
+					"assignedToUserId": "",
+					"unitOfMeasure": ""
+				},
+				"locationId": ""
+			}
+		}
+	]
+}

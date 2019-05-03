@@ -1,0 +1,88 @@
+// Navbar
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 769px,
+  lg: 992px,
+  xl: 1200px
+);
+
+//****************** Font Families ***************************/
+$font-family-base: "IBMPlexSans", "IBM Plex Sans", "HelvNeueMediumforIBM", "Helvetica Neue", Helvetica, Arial, Tahoma, Verdana, sans-serif;
+$semibold-font-family: "IBMPlexSans-SemiBold", "IBM Plex Sans SemiBold", "HelvNeueMediumforIBM", "Helvetica Neue", Helvetica, Arial, Tahoma, Verdana, sans-serif;
+$medium-font-family: "IBMPlexSans-Medium", "IBM Plex Sans Medium", "HelvNeueMediumforIBM", "Helvetica Neue", Helvetica, Arial, Tahoma, Verdana, sans-serif;
+/*$primary-font-family-alt: "IBMPlexSans", "HelvNeueRomanforIBM", "Helvetica Neue", Helvetica, Arial, Tahoma, Verdana, sans-serif;*/
+$light-font-family: "IBMPlexSans-Light", "IBM Plex Sans Light", "Helvetica Neue Light","HelvLightIBM", "Helvetica Neue", Helvetica, Arial, Tahoma, Verdana, sans-serif;
+$italic-font-family: "IBMPlexSans-Italic", "HelvNeueMediumforIBM", "Helvetica Neue", Helvetica, Arial, Tahoma, Verdana, sans-serif;
+//****************** Font Families ***************************/
+
+/*** Override Bootstrap Colors here ***/
+$theme-colors: (
+  "danger": #E62325,
+  "success": #00884B
+);
+$isf-body-bg:  #F5F5F5;
+$isf-details-bg: #F4F4F4;
+$navbar-padding-y: 0 !default; //Removing top and bottom padding from navbar
+$navbar-padding-x: 20px !default; //Removing top and bottom padding from navbar
+
+//Changing to SIM Blue color
+$blue: #2D74DA !default;
+$cyan: #F2F7FF !default;
+$isf-input-color: #777677;
+
+$alert-border-radius:               0 !default;
+$alert-border-width:                1px !default;
+
+// Allows for customizing button radius independently from global border radius
+$btn-border-radius:           0 !default;
+$btn-border-radius-lg:        $btn-border-radius !default;
+$btn-border-radius-sm:        $btn-border-radius !default;
+//Overriding grid gutter witdth to suite ux requirement
+$grid-gutter-width:           12px !default;
+
+//Removing Border Radius from input
+$input-border-radius:                   0 !default;
+$input-border-radius-lg:                $input-border-radius !default;
+$input-border-radius-sm:                $input-border-radius !default;
+
+$input-border-color:                    $isf-input-color !default;
+
+$input-padding-y:                       10px !default;
+$input-padding-x:                       20px !default;
+$input-line-height:                     $input-padding-x !default;
+$input-height:                          40px !default;
+
+@mixin isf-font-size($size) {
+  font-size: $size;
+}
+
+//Modal Overrides
+$modal-content-border-radius:       0 !default;
+$modal-header-padding:              10px !default;
+$modal-header-padding:              $modal-header-padding !default;
+$modal-dialog-margin:               0 !default;
+$modal-footer-border-color:         #D8D8D8 !default;
+$modal-content-border-width:        0 !default;
+$modal-footer-border-width:         1px !default;
+
+$modal-lg:                          640px !default;
+$modal-md:                          640px !default;
+
+//Font size variables
+$font-size-12:12px;
+$font-size-13:13px;
+$font-size-14:14px;
+$font-size-15:15px;
+$font-size-16:16px;
+$font-size-20:20px;
+$font-size-24:24px;
+
+$highlighted-text-grey: #595859;
+
+//Overriding textbox border shadow on focus.
+$input-focus-box-shadow: none;
+
+//Overriding button border shadow on focus.
+$btn-focus-box-shadow: none;
+$btn-focus-width: none;

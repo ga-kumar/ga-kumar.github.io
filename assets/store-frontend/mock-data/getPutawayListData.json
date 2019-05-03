@@ -1,0 +1,508 @@
+[
+  {
+    "taskId": "150064ee-b750-4c84-b6f2-337024e9f7e2",
+    "receiptNo": "Receipt001",
+    "shipmentNo": "SHP001",
+    "containerNo": "",
+    "productId": "string",
+    "unitOfMeasure": "string",
+    "productClass": "string",
+    "inventoryStatus": "string",
+    "segmentType": "string",
+    "segment": "string",
+    "serials": [
+      "string"
+    ],
+    "status": "IN_PROGRESS",
+    "Item": {
+        "ItemID":"PIX222222223",
+        "Variation": "RoseGold | 64GB",
+        "PrimaryInformation": {
+            "Description":"Matrix Aqua Smartphone",
+            "ImageID":"1000025",
+            "ImageLabel":"string",
+            "ImageLocation":"A001",
+            "ImageURL":"COMImages/RI/RefData/Images/Matrix/Product/A001/1000025.jpg"
+        }
+    },
+    "batchNo": "string",
+    "lotNo": "string",
+    "tagNo": "string",
+    "manufacturedDate": "string",
+    "quantity": 1,
+    "sourceLocationId": "A001",
+    "targetLocationId": "F0H",
+    "pickedQuantity": 0,
+    "shortageQuantity": 0,
+    "completedQuantity": 0,
+    "pickedSerials": [
+      "string"
+    ],
+    "completedSerials": [
+      "string"
+    ],
+    "assignedToUserId": "string",
+    "inTransitLocationId": "string",
+    "createdTimestamp": "2018-10-03T05:26:50.420Z"
+  },
+  {
+    "taskId": "150064ee-b750-4c84-b6f2-337024e9f7e2",
+    "receiptNo": "Receipt002",
+    "shipmentNo": "",
+    "containerNo": "CONTAINER001",
+    "productId": "string",
+    "unitOfMeasure": "string",
+    "productClass": "string",
+    "inventoryStatus": "string",
+    "segmentType": "string",
+    "segment": "string",
+    "serials": [
+      "string"
+    ],
+    "status": "IN_PROGRESS",
+    "Item": {
+        "ItemID":"DAYD0019647",
+        "Variation": "White | 64GB",
+        "PrimaryInformation": {
+            "Description":"Plasma HDTV features progressive scan",
+            "ImageID":"1000025",
+            "ImageLabel":"string",
+            "ImageLocation":"A001",
+            "ImageURL":"COMImages/RI/RefData/Images/Matrix/Product/A001/1000025.jpg"
+        }
+    },
+    "batchNo": "string",
+    "lotNo": "string",
+    "tagNo": "string",
+    "manufacturedDate": "string",
+    "quantity": 2,
+    "sourceLocationId": "A001",
+    "targetLocationId": "F0H",
+    "pickedQuantity": 0,
+    "shortageQuantity": 0,
+    "completedQuantity": 0,
+    "pickedSerials": [
+      "string"
+    ],
+    "completedSerials": [
+      "string"
+    ],
+    "assignedToUserId": "string",
+    "inTransitLocationId": "string",
+    "createdTimestamp": "2018-12-04T05:26:50.420Z"
+  },
+  {
+    "taskId": "150064ee-b750-4c84-b6f2-337024e9f7e2",
+    "receiptNo": "Receipt003",
+    "shipmentNo": "SHP001",
+    "containerNo": "CONTAINER001",
+    "productId": "string",
+    "unitOfMeasure": "string",
+    "productClass": "string",
+    "inventoryStatus": "string",
+    "segmentType": "string",
+    "segment": "string",
+    "serials": [
+      "string"
+    ],
+    "status": "IN_PROGRESS",
+    "Item": {
+        "ItemID":"DAYD002343",
+        "Variation": "",
+        "PrimaryInformation": {
+            "Description":"Columbia's Benton Springs Fleece jacket - Red L Jacket",
+            "ImageID":"1000025",
+            "ImageLabel":"string",
+            "ImageLocation":"A001",
+            "ImageURL":"COMImages/RI/RefData/Images/Matrix/Product/A001/1000025.jpg"
+        }
+    },
+    "batchNo": "string",
+    "lotNo": "string",
+    "tagNo": "string",
+    "manufacturedDate": "string",
+    "quantity": 3,
+    "sourceLocationId": "A001",
+    "targetLocationId": "F0H",
+    "pickedQuantity": 0,
+    "shortageQuantity": 0,
+    "completedQuantity": 0,
+    "pickedSerials": [
+      "string"
+    ],
+    "completedSerials": [
+      "string"
+    ],
+    "assignedToUserId": "string",
+    "inTransitLocationId": "string",
+    "createdTimestamp": "2018-11-01T05:26:50.420Z"
+  },
+  {
+    "taskId": "150064ee-b750-4c84-b6f2-337024e9f7e2",
+    "receiptNo": "Receipt004",
+    "shipmentNo": "SHP001",
+    "containerNo": "CONTAINER001",
+    "productId": "string",
+    "unitOfMeasure": "string",
+    "productClass": "string",
+    "inventoryStatus": "string",
+    "segmentType": "string",
+    "segment": "string",
+    "serials": [
+      "string"
+    ],
+    "status": "NOT_STARTED",
+    "Item": {
+        "ItemID":"PIX2212311223",
+        "Variation": "White | 64GB",
+        "PrimaryInformation": {
+            "Description":"Pixma HDTV",
+            "ImageID":"1000025",
+            "ImageLabel":"string",
+            "ImageLocation":"A001",
+            "ImageURL":"COMImages/RI/RefData/Images/Matrix/Product/A001/1000025.jpg"
+        }
+    },
+    "batchNo": "string",
+    "lotNo": "string",
+    "tagNo": "string",
+    "manufacturedDate": "string",
+    "quantity": 4,
+    "sourceLocationId": "A001",
+    "targetLocationId": "F0H",
+    "pickedQuantity": 0,
+    "shortageQuantity": 0,
+    "completedQuantity": 0,
+    "pickedSerials": [
+      "string"
+    ],
+    "completedSerials": [
+      "string"
+    ],
+    "assignedToUserId": "string",
+    "inTransitLocationId": "string",
+    "createdTimestamp": "2018-09-04T05:26:50.420Z"
+  },
+  {
+    "taskId": "150064ee-b750-4c84-b6f2-337024e9f7e2",
+    "receiptNo": "Receipt005",
+    "shipmentNo": "SHP001",
+    "containerNo": "CONTAINER001",
+    "productId": "string",
+    "unitOfMeasure": "string",
+    "productClass": "string",
+    "inventoryStatus": "string",
+    "segmentType": "string",
+    "segment": "string",
+    "serials": [
+      "string"
+    ],
+    "status": "NOT_STARTED",
+    "Item": {
+        "ItemID":"HDPLASMA23412",
+        "Variation": "Slate | 64GB",
+        "PrimaryInformation": {
+            "Description":"HDPlasma TV",
+            "ImageID":"1000025",
+            "ImageLabel":"string",
+            "ImageLocation":"A001",
+            "ImageURL":"COMImages/RI/RefData/Images/Matrix/Product/A001/1000025.jpg"
+        }
+    },
+    "batchNo": "string",
+    "lotNo": "string",
+    "tagNo": "string",
+    "manufacturedDate": "string",
+    "quantity": 1,
+    "sourceLocationId": "A001",
+    "targetLocationId": "F0H",
+    "pickedQuantity": 0,
+    "shortageQuantity": 0,
+    "completedQuantity": 0,
+    "pickedSerials": [
+      "string"
+    ],
+    "completedSerials": [
+      "string"
+    ],
+    "assignedToUserId": "string",
+    "inTransitLocationId": "string",
+    "createdTimestamp": "2018-05-04T05:26:50.420Z"
+  },
+  {
+    "taskId": "150064ee-b750-4c84-b6f2-337024e9f7e2",
+    "receiptNo": "Receipt006",
+    "shipmentNo": "SHP001",
+    "containerNo": "CONTAINER001",
+    "productId": "string",
+    "unitOfMeasure": "string",
+    "productClass": "string",
+    "inventoryStatus": "string",
+    "segmentType": "string",
+    "segment": "string",
+    "serials": [
+      "string"
+    ],
+    "status": "NOT_STARTED",
+    "Item": {
+        "ItemID":"DAYD002311",
+        "Variation": "Spacegray",
+        "PrimaryInformation": {
+            "Description":"Google hub home",
+            "ImageID":"1000025",
+            "ImageLabel":"string",
+            "ImageLocation":"A001",
+            "ImageURL":"COMImages/RI/RefData/Images/Matrix/Product/A001/1000025.jpg"
+        }
+    },
+    "batchNo": "string",
+    "lotNo": "string",
+    "tagNo": "string",
+    "manufacturedDate": "string",
+    "quantity": 5,
+    "sourceLocationId": "A001",
+    "targetLocationId": "F0H",
+    "pickedQuantity": 0,
+    "shortageQuantity": 0,
+    "completedQuantity": 0,
+    "pickedSerials": [
+      "string"
+    ],
+    "completedSerials": [
+      "string"
+    ],
+    "assignedToUserId": "string",
+    "inTransitLocationId": "string",
+    "createdTimestamp": "2018-10-01T05:26:50.420Z"
+  },
+  {
+    "taskId": "150064ee-b750-4c84-b6f2-337024e9f7e2",
+    "receiptNo": "Receipt007",
+    "shipmentNo": "SHP001",
+    "containerNo": "CONTAINER001",
+    "productId": "string",
+    "unitOfMeasure": "string",
+    "productClass": "string",
+    "inventoryStatus": "string",
+    "segmentType": "string",
+    "segment": "string",
+    "serials": [
+      "string"
+    ],
+    "status": "IN_PROGRESS",
+    "Item": {
+        "ItemID":"PIX222222223",
+        "Variation": "Black | 56GB",
+        "PrimaryInformation": {
+            "Description":"Plasma HDTV features progressive scan",
+            "ImageID":"1000025",
+            "ImageLabel":"string",
+            "ImageLocation":"A001",
+            "ImageURL":"COMImages/RI/RefData/Images/Matrix/Product/A001/1000025.jpg"
+        }
+    },
+    "batchNo": "string",
+    "lotNo": "string",
+    "tagNo": "string",
+    "manufacturedDate": "string",
+    "quantity": 10,
+    "sourceLocationId": "A001",
+    "targetLocationId": "F0H",
+    "pickedQuantity": 0,
+    "shortageQuantity": 0,
+    "completedQuantity": 0,
+    "pickedSerials": [
+      "string"
+    ],
+    "completedSerials": [
+      "string"
+    ],
+    "assignedToUserId": "string",
+    "inTransitLocationId": "string",
+    "createdTimestamp": "2018-01-04T05:26:50.420Z"
+  },
+  {
+    "taskId": "150064ee-b750-4c84-b6f2-337024e9f7e2",
+    "receiptNo": "Receipt008",
+    "shipmentNo": "SHP001",
+    "containerNo": "CONTAINER001",
+    "productId": "string",
+    "unitOfMeasure": "string",
+    "productClass": "string",
+    "inventoryStatus": "string",
+    "segmentType": "string",
+    "segment": "string",
+    "serials": [
+      "string"
+    ],
+    "status": "IN_PROGRESS",
+    "Item": {
+        "ItemID":"PIX222222223",
+        "Variation": "White | 64GB",
+        "PrimaryInformation": {
+            "Description":"Pixel 2345",
+            "ImageID":"1000025",
+            "ImageLabel":"string",
+            "ImageLocation":"A001",
+            "ImageURL":"COMImages/RI/RefData/Images/Matrix/Product/A001/1000025.jpg"
+        }
+    },
+    "batchNo": "string",
+    "lotNo": "string",
+    "tagNo": "string",
+    "manufacturedDate": "string",
+    "quantity": 24,
+    "sourceLocationId": "A001",
+    "targetLocationId": "F0H",
+    "pickedQuantity": 0,
+    "shortageQuantity": 0,
+    "completedQuantity": 0,
+    "pickedSerials": [
+      "string"
+    ],
+    "completedSerials": [
+      "string"
+    ],
+    "assignedToUserId": "string",
+    "inTransitLocationId": "string",
+    "createdTimestamp": "2018-02-14T05:26:50.420Z"
+  },
+  {
+    "taskId": "150064ee-b750-4c84-b6f2-337024e9f7e2",
+    "receiptNo": "Receipt009",
+    "shipmentNo": "SHP001",
+    "containerNo": "CONTAINER001",
+    "productId": "string",
+    "unitOfMeasure": "string",
+    "productClass": "string",
+    "inventoryStatus": "string",
+    "segmentType": "string",
+    "segment": "string",
+    "serials": [
+      "string"
+    ],
+    "status": "IN_PROGRESS",
+    "Item": {
+        "ItemID":"PIX222222223",
+        "Variation": "White | 64GB",
+        "PrimaryInformation": {
+            "Description":"Plasma HDTV features progressive scan",
+            "ImageID":"1000025",
+            "ImageLabel":"string",
+            "ImageLocation":"A001",
+            "ImageURL":"COMImages/RI/RefData/Images/Matrix/Product/A001/1000025.jpg"
+        }
+    },
+    "batchNo": "string",
+    "lotNo": "string",
+    "tagNo": "string",
+    "manufacturedDate": "string",
+    "quantity": 20,
+    "sourceLocationId": "A001",
+    "targetLocationId": "F0H",
+    "pickedQuantity": 0,
+    "shortageQuantity": 0,
+    "completedQuantity": 0,
+    "pickedSerials": [
+      "string"
+    ],
+    "completedSerials": [
+      "string"
+    ],
+    "assignedToUserId": "string",
+    "inTransitLocationId": "string",
+    "createdTimestamp": "2018-03-23T05:26:50.420Z"
+  },
+  {
+    "taskId": "150064ee-b750-4c84-b6f2-337024e9f7e2",
+    "receiptNo": "Receipt010",
+    "shipmentNo": "SHP001",
+    "containerNo": "CONTAINER001",
+    "productId": "string",
+    "unitOfMeasure": "string",
+    "productClass": "string",
+    "inventoryStatus": "string",
+    "segmentType": "string",
+    "segment": "string",
+    "serials": [
+      "string"
+    ],
+    "status": "IN_PROGRESS",
+    "Item": {
+        "ItemID":"PIX222222223",
+        "Variation": "White | 64GB",
+        "PrimaryInformation": {
+            "Description":"Plasma HDTV features progressive scan",
+            "ImageID":"1000025",
+            "ImageLabel":"string",
+            "ImageLocation":"A001",
+            "ImageURL":"COMImages/RI/RefData/Images/Matrix/Product/A001/1000025.jpg"
+        }
+    },
+    "batchNo": "string",
+    "lotNo": "string",
+    "tagNo": "string",
+    "manufacturedDate": "string",
+    "quantity": 9,
+    "sourceLocationId": "A001",
+    "targetLocationId": "F0H",
+    "pickedQuantity": 0,
+    "shortageQuantity": 0,
+    "completedQuantity": 0,
+    "pickedSerials": [
+      "string"
+    ],
+    "completedSerials": [
+      "string"
+    ],
+    "assignedToUserId": "string",
+    "inTransitLocationId": "string",
+    "createdTimestamp": "2018-10-14T05:26:50.420Z"
+  },
+  {
+    "taskId": "150064ee-b750-4c84-b6f2-337024e9f7e2",
+    "receiptNo": "Receipt011",
+    "shipmentNo": "SHP001",
+    "containerNo": "CONTAINER001",
+    "productId": "string",
+    "unitOfMeasure": "string",
+    "productClass": "string",
+    "inventoryStatus": "string",
+    "segmentType": "string",
+    "segment": "string",
+    "serials": [
+      "string"
+    ],
+    "status": "IN_PROGRESS",
+    "Item": {
+        "ItemID":"PIX222222223",
+        "Variation": "White | 64GB",
+        "PrimaryInformation": {
+            "Description":"Plasma HDTV features progressive scan",
+            "ImageID":"1000025",
+            "ImageLabel":"string",
+            "ImageLocation":"A001",
+            "ImageURL":"COMImages/RI/RefData/Images/Matrix/Product/A001/1000025.jpg"
+        }
+    },
+    "batchNo": "string",
+    "lotNo": "string",
+    "tagNo": "string",
+    "manufacturedDate": "string",
+    "quantity": 12,
+    "sourceLocationId": "A001",
+    "targetLocationId": "F0H",
+    "pickedQuantity": 0,
+    "shortageQuantity": 0,
+    "completedQuantity": 0,
+    "pickedSerials": [
+      "string"
+    ],
+    "completedSerials": [
+      "string"
+    ],
+    "assignedToUserId": "string",
+    "inTransitLocationId": "string",
+    "createdTimestamp": "2018-10-04T05:26:50.420Z"
+  }
+]
